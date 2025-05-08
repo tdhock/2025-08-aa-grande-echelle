@@ -12,19 +12,55 @@ Téléphone : 	819-821-8000 (65565)
 
 Site  : 	https://github.com/tdhock/2025-08-aa-grande-echelle
 
+** Projets
+
+- Package R avec documentation, tests, code C++
+- Package Python avec documentation, tests, code C++
+- Descent de gradient sur GPU
+- Grappe de calcul avec R
+- Recherche de paramètres avec Ray, https://docs.alliancecan.ca/wiki/Ray#Multiple_Nodes
+
+Standards dans la rédaction de code R et python
+- R https://docs.google.com/document/d/1W6-HdQLgHayOFXaQtscO5J5yf05G7E6KeXyiBJFcT7A/edit
+- Python https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y/edit#heading=h.pekgvy78tviz
+
+
 ** Calendrier
 
-- Semaine 1
-- Semaine 2
-- Semaine 3
-- Semaine 4
-- Semaine 5
-- Semaine 6
-- Semaine 7
-- Semaine 8
-- Semaine 9
-- Semaine 10
-- Semaine 11
-- Semaine 12
-- Semaine 13
-- Semaine 14
+- 25 août, semaine 1
+  - rappels de python / scikit learn
+- 1 sept, semaine 2
+  - Fête du Travail : 1er septembre
+  - bases de R / mlr3
+- 8 sept, semaine 3
+  - Apprentissage en parallèle sur grappe de calcul (python)
+- 15 sept, semaine 4
+  - apprentissage en parallèle sur grappe de calcul (R)
+- 22 sept, semaine 5
+  - validation croisée, comparer entraînement sur différentes sous-ensembles
+- 29 sept, semaine 6
+  - Journée nationale de la vérité et de la réconciliation : 30 septembre
+  - acceleration avec GPU
+- 6 oct, semaine 7
+- 13 oct, semaine 8
+  - Jour de l’Action de grâce : 13 octobre
+  - revision et examen
+- 20 oct, semaine 9, relâche
+- 27 oct, semaine 10
+  - collaboration sur github
+  - Organiser et publier un projet de recherche reproductible : github, zenodo
+- 3 nov, semaine 11
+  - Programmation python, doc strings, site web de documentation,
+    tests, PyPI, intégration de code C++, API C pour tableaux numpy
+- 10 nov, semaine 12
+  - Programmation R, créer paquetage R avec documentation, tests,
+    vignettes, C++ code, etc.
+    https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/homeworks/Rpkg.org
+- 17 nov, semaine 13
+  - DevOps et MLOps: intégration et livraison en continu (CI-CD),
+    actions github, tests automatisés, couverture de code, analyse
+    comparative de performance en continu.
+- 24 nov, semaine 14
+- 1 déc, semaine 15
+- 8 déc, semaine 16
+- 15 déc, semaine 17
