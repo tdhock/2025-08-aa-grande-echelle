@@ -21,8 +21,8 @@ Site  : 	https://github.com/tdhock/2025-08-aa-grande-echelle
 - Recherche de paramètres avec Ray, https://docs.alliancecan.ca/wiki/Ray#Multiple_Nodes
 
 Standards dans la rédaction de code R et python
-- R https://docs.google.com/document/d/1W6-HdQLgHayOFXaQtscO5J5yf05G7E6KeXyiBJFcT7A/edit
-- Python https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y/edit#heading=h.pekgvy78tviz
+- R https://docs.google.com/document/d/1W6-HdQLgHayOFXaQtscO5J5yf05G7E6KeXyiBJFcT7A
+- Python https://docs.google.com/document/d/1Co1y6bvnNdadnzwAt575JFLkIvGZsQ35ED3QJgMfA3Y
 
 
 ** Calendrier
